@@ -1,0 +1,11 @@
+/github/workspace/Linh's_newfile.html
+L1 |This is new file on Linh's brach for practicing.
+    ^ Doctype must be declared first. (doctype-first)
+L3 |<h1 More to go here<h2>
+       ^ The attribute name of [ More ] must be in lowercase. (attr-lowercase)
+L4 |
+    ^ Tag must be paired, missing: [ </h1> ], ope
+    
+    Name of bug: HTML syntax errors
+    Reported by : SebleA
+    
