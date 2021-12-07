@@ -1,0 +1,42 @@
+
+.mybodyDiv{
+  border: 10px;
+  margin-bottom: auto;
+  background-image: url("background.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-bottom: 20px;
+  font-size: 18pt;
+  
+}
+
+.myDiv{
+  width: 900px;
+  border: 5px  outset rgb(151, 97, 238);
+  margin:auto;
+  background-color: rgb(8, 8, 8);
+  color: rgb(151, 97, 238);
+  padding-left: 30px;
+  padding-bottom: 30px;
+  align-items: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(35, 240, 114);
+}
+
+h2, h3, h4 {
+  color: rgb(53, 106, 253);
+}
+
+a:link {
+   color: rgb(35, 240, 114); 
+}
+
+a:visited {
+    color: rgb(35, 240, 114);
+}
+
